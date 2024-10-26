@@ -37,8 +37,8 @@ document.getElementById('questao-form').addEventListener('submit', function(even
 
     // Respostas corretas
     const respostasCorretas = {
-        questao1: "falso",
-        questao2: "verdadeiro",
+        questao1: "verdadeiro",
+        questao2: "falso",
         questao3: "falso"
     };
 
