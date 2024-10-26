@@ -39,7 +39,7 @@ document.getElementById('questao-form').addEventListener('submit', function(even
     const respostasCorretas = {
         questao1: "falso",
         questao2: "verdadeiro",
-        questao3: "falso"
+        questao3: "verdadeiro"
     };
 
     let pontuacao = 0;
